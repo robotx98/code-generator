@@ -1,2 +1,2 @@
 # code-generator
-generator program for any password
+Generator program for any password
